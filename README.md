@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # Olá Senhores👋
-<img src="https://media1.tenor.com/m/Tsob5aHiS3UAAAAC/hello-there.gif" >
+<img src="https://media1.tenor.com/m/Tsob5aHiS3UAAAAC/hello-there.gif" min-width="100px" max-width="100px" width="100px" align="center" alt="Estus Flask" >
 
 ## 🚀 Sobre mim
 Conhecido por BrokenArrowIGU, mas de nome Daniel Marques. Atualmente cursando Engenharia Elétrica, mas sendo entusiasta na área de programação, particularmente em Python.
